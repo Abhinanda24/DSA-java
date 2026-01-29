@@ -184,7 +184,7 @@ class pattern{
                 }
                 else{
                     System.out.print("  ");
-                }
+                }   
             }
             System.out.println();
         }
